@@ -1,4 +1,4 @@
-+   [C# XAML 高价教程](README.md)
++   [C# XAML 高级教程](README.md)
 +   [第一部分：开始](pt1.md)
 	+   [一、什么是 XAML？](01.md)
 	+   [二、软件工艺](02.md)

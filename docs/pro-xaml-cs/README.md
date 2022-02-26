@@ -1,4 +1,4 @@
-# C# XAML 高价教程
+# C# XAML 高级教程
 
 > 原文：[Pro XAML with C#](https://zh.book4you.org/book/5913507/bd385d)
 > 

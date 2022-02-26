@@ -117,7 +117,7 @@
     +   [三十九、深入 C#](docs/prog-guide-cs5/39.md)
     +   [四十、日志和调试技术](docs/prog-guide-cs5/40.md)
     +   [四十一、IDE 和工具](docs/prog-guide-cs5/41.md)
-+   [C# XAML 高价教程](docs/pro-xaml-cs/README.md)
++   [C# XAML 高级教程](docs/pro-xaml-cs/README.md)
     +   [第一部分：开始](docs/pro-xaml-cs/pt1.md)
         +   [一、什么是 XAML？](docs/pro-xaml-cs/01.md)
         +   [二、软件工艺](docs/pro-xaml-cs/02.md)
